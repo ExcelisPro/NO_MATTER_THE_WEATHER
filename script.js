@@ -39,6 +39,10 @@ const translations = {
         "endorsement-3-author": "— Graziele",
         "endorsement-3-country": "Brasil",
 
+        "endorsement-4-text": "\"Faça Chuva, Faça Sol é um daqueles livros que nos fazem refletir sobre a vida. Terminei a leitura em um único dia e fechei o livro com uma certeza: nossa origem pode explicar parte da nossa história, mas não precisa definir o nosso futuro. Uma leitura sensível, inspiradora e profundamente humana.\"",
+        "endorsement-4-author": "— Cristina Soares",
+        "endorsement-4-country": "Brasil",
+
         "modal-chapter": "Capítulo 1",
         "sample-text-1": "Apucarana, 1991. Não uma cidade pequena: que fique claro desde o início. Uma cidade de verdade, pelos padrões do interior do Paraná: shopping, dois hospitais, uma universidade, uma rede sólida de escolas e um batalhão do Exército que dava ao lugar uma certa espinha dorsal, um senso de instituição e ordem que cidades menores só podiam imaginar. Ela ficava no norte do estado com a confiança tranquila de um lugar que havia se construído em algo real, sem precisar da permissão ou da atenção de ninguém para isso.",
         "sample-text-2": "Foi lá que nasci.",
@@ -142,6 +146,10 @@ const translations = {
         "endorsement-3-text": "\"A book that grips you from start to finish. An emotional story told with great truth. And a great lesson at the end! No Matter the Weather is just the beginning!!!\"",
         "endorsement-3-author": "— Graziele",
         "endorsement-3-country": "Brazil",
+
+        "endorsement-4-text": "\"No Matter the Weather is one of those books that makes us reflect on life. I finished reading it in a single day and closed the book with a certainty: our origin can explain part of our history, but it doesn't have to define our future. A sensitive, inspiring, and deeply human read.\"",
+        "endorsement-4-author": "— Cristina Soares",
+        "endorsement-4-country": "Brazil",
 
         "modal-chapter": "Chapter 1",
         "sample-text-1": "Apucarana, 1991. Not a small town, and let that be clear from the start. A real city, by the standards of interior Paraná: a shopping mall, two hospitals, a university, a solid network of schools, and an Army battalion that gave the place a backbone, a sense of institution and order that smaller towns could only dream about. It sat in the north of the state with the quiet confidence of a place that had made something of itself, without asking anyone's permission or waiting for anyone's attention to do it.",
