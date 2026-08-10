@@ -93,14 +93,6 @@ const translations = {
         "bio-p6": "Faça Chuva, Faça Sol é o seu primeiro livro. É a história de tudo o que está acima, contada com honestidade, incluindo as partes que não aparecem em um currículo. Ele vive no Brasil com sua esposa e filha.",
         
         "contact-title": "CONTATO",
-        "reviews-title": "AVALIAÇÕES DOS LEITORES",
-        "reviews-subtitle": "Você já leu o livro? Deixe sua avaliação abaixo.",
-        "form-name": "Nome (Opcional)",
-        "form-country": "País de Residência *",
-        "form-rating": "Avaliação *",
-        "form-comment": "Seu Comentário / Avaliação *",
-        "form-submit": "ENVIAR AVALIAÇÃO",
-        "form-success": "Obrigado! Sua avaliação foi enviada com sucesso.",
         
         "feat1-title": "NASCIDO NA TEMPESTADE",
         "feat1-desc": "Encontrei força em dias frios e em recomeços.",
