@@ -534,45 +534,53 @@ h1, h2, h3, h4 {
     margin: 0;
 }
 
-/* --- SEÇÃO DE DEPOIMENTOS / ENDORSEMENTS UNIFICADA --- */
+/* --- SEÇÃO DE DEPOIMENTOS / ENDORSEMENTS (LISTA FLUIDA ELEGANTE) --- */
 .endorsements-section {
     grid-column: 1 / 3;
     grid-row: 2;
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid rgba(14, 27, 47, 0.1);
+    margin-top: 2.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(14, 27, 47, 0.15);
+    max-width: 850px;
 }
 
 .endorsements-section h3 {
     font-family: var(--font-btn);
     font-size: 0.95rem;
-    letter-spacing: 1px;
-    margin-bottom: 0.8rem;
+    letter-spacing: 2px;
+    margin-bottom: 1.5rem;
     color: var(--color-navy);
 }
 
 .endorsements-grid-inner {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.5rem;
-    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 1.8rem;
 }
 
 .endorsement-card {
     background: rgba(198, 154, 58, 0.04);
     border-left: 3px solid var(--color-gold);
-    padding: 1.5rem;
+    padding: 1.8rem 2rem;
     border-radius: 4px;
-    border: 1px solid rgba(198, 154, 58, 0.15);
+    border-top: 1px solid rgba(198, 154, 58, 0.15);
+    border-right: 1px solid rgba(198, 154, 58, 0.15);
+    border-bottom: 1px solid rgba(198, 154, 58, 0.15);
+    transition: transform 0.3s ease;
+}
+
+.endorsement-card:hover {
+    transform: translateX(4px);
+    background: rgba(198, 154, 58, 0.07);
 }
 
 .endorsement-quote {
     font-family: var(--font-body);
     font-style: italic;
-    font-size: 1rem;
-    line-height: 1.6;
+    font-size: 1.05rem;
+    line-height: 1.7;
     color: var(--color-text);
-    margin-bottom: 0.8rem;
+    margin-bottom: 1rem;
     text-align: justify;
 }
 
@@ -684,11 +692,6 @@ h1, h2, h3, h4 {
     .endorsements-section {
         grid-column: auto;
         grid-row: auto;
-    }
-
-    .endorsements-grid-inner {
-        grid-template-columns: 1fr;
-        gap: 1.2rem;
     }
 
     .main-title {
