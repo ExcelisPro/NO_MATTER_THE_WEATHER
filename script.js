@@ -11,7 +11,7 @@ const translations = {
         "btn-buy": "COMPRAR NA AMAZON",
         "btn-sample": "Ler Amostra Grátis",
         "availability": "DISPONÍVEL NO KINDLE • ISBN: 979-8317943936",
-        "amazon-url": "https://www.amazon.com/Fa%C3%A7a-chuva-fa%C3%A7a-sol-reconstru%C3%A7%C3%A3o/dp/B0HBBNG1L9",
+        "amazon-url": "https://www.amazon.com.br/Fa%C3%A7a-chuva-fa%C3%A7a-sol-reconstru%C3%A7%C3%A3o/dp/B0HBBNG1L9",
         
         "nav-author": "Sobre o autor",
         "nav-endorsements": "Depoimentos",
